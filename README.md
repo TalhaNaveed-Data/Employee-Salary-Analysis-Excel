@@ -1,5 +1,3 @@
-# Employee-Salary-Analysis-Excel
-Automated payroll system for 50 employees with tax calculations and VLOOKUP search functionality
 What i did:
 Large Dataset Management: Built a complete payroll dashboard for 50 employees across different departments.
 Tax & Salary Logic: Implemented automated formulas to calculate Gross Salary, Taxes, and final Net Salary.
