@@ -3,4 +3,7 @@ Large Dataset Management: Built a complete payroll dashboard for 50 employees ac
 Tax & Salary Logic: Implemented automated formulas to calculate Gross Salary, Taxes, and final Net Salary.
 VLOOKUP Integration: Added a smart search feature using VLOOKUP to instantly fetch any employee's details by their ID.
 Allowance Automation: Used logical formulas to calculate House Rent, Medical, and Utility allowances based on Basic Salary.
+Tools Used:
+Microsoft Excel (VLOOKUP, Financial Formulas, Tax Logic, Data Management).
+
 
